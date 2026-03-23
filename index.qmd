@@ -1,8 +1,8 @@
 ---
 title: "Po-Lin Wang"
-subtitle: "Data Scientist"
+subtitle: "Assistant Professor"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
-image: profile.jpg
+image: IMG_0001.jpeg # profile.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
   links:
@@ -25,4 +25,7 @@ University of XYZ, City \| Location \| Sept 20XX - June 20XX
 Workplace \| Job title \| April 20XX - present
 
 classic token
+
+
 repo check
+
