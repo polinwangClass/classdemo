@@ -1,8 +1,8 @@
 ---
 title: "Po-Lin Wang"
-subtitle: "Assistant Professor"
+subtitle: "Data Scientist"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
-image: IMG_0001.jpeg # profile.jpg
+image: profile.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
   links:
