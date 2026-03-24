@@ -2,7 +2,7 @@
 title: "Po-Lin Wang"
 subtitle: "Data Scientist"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
-image: profile.jpg
+image: IMG_0001.jpeg #profile.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
   links:
@@ -11,7 +11,7 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://github.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/polinwang
 ---
 
 A little bit about me and my life.

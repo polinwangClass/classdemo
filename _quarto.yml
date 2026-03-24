@@ -10,6 +10,8 @@ website:
     right:
       - text: Home
         href: index.qmd
+      - text: Homework
+        href: Module4Reading3.html
       
 format:
   html:
